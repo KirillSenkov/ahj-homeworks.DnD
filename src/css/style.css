@@ -1,0 +1,6 @@
+body {
+    color: #999;
+    background-color: #000;
+    background-image: url('../img/space.jpg');
+    background-size: cover;
+}
